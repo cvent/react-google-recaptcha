@@ -61,7 +61,7 @@
     "phantomjs": "^1.9.18",
     "react": "~0.14.0",
     "react-dom": "~0.14.0",
-    "release-script": "^0.5.3",
+    "release-script": "^0.5.8",
     "webpack": "~1.12.2"
   },
   "dependencies": {
