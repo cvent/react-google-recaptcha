@@ -33,7 +33,7 @@
   },
   "homepage": "https://github.com/dozoisch/react-google-recaptcha",
   "peerDependencies": {
-    "react": ">=0.14"
+    "react": ">=0.14.10"
   },
   "devDependencies": {
     "babel": "~5.8.21",
@@ -59,8 +59,8 @@
     "mocha": "~2.3.3",
     "mt-changelog": "^0.6.2",
     "phantomjs": "^1.9.18",
-    "react": "~0.14.0",
-    "react-dom": "~0.14.0",
+    "react": "~0.14.10",
+    "react-dom": "~0.14.10",
     "release-script": "^0.5.3",
     "webpack": "~1.12.2"
   },
