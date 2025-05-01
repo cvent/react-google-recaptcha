@@ -47,7 +47,7 @@
     "eslint": "~1.6.0",
     "eslint-config-defaults": "~7.0.1",
     "eslint-plugin-react": "~3.5.1",
-    "karma": "~0.13.9",
+    "karma": "~0.13.22",
     "karma-chai": "~0.1.0",
     "karma-chrome-launcher": "~0.2.0",
     "karma-cli": "~0.1.0",
